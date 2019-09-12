@@ -3,7 +3,7 @@
 Dexie icon theme is based on Dex and Dexter icons, special thanks to the authors (dexter icon repository: https://repositorio.deepines.com/pub/deepines/pool/main/d/dexter-icon-theme/).
 
 
-![image][https://raw.githubusercontent.com/adhec/Dexie-icons/master/images/version_0_1.png]
+![image](https://raw.githubusercontent.com/adhec/Dexie-icons/master/images/version_0_1.png)
 
 ### Licence GPLv3
 
